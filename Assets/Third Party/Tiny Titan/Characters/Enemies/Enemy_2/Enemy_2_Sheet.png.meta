@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: c0fb736219a2b3c468fc224efc3db2e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FemZomb_Attack_01
+  - first:
+      213: 21300002
+    second: FemZomb_Attack_02
+  - first:
+      213: 21300004
+    second: FemZomb_Attack_03
+  - first:
+      213: 21300006
+    second: FemZomb_Attack_04
+  - first:
+      213: 21300008
+    second: FemZomb_HitReact_01
+  - first:
+      213: 21300010
+    second: FemZomb_HitReact_02
+  - first:
+      213: 21300012
+    second: FemZomb_HitReact_03
+  - first:
+      213: 21300014
+    second: FemZomb_HitReact_04
+  - first:
+      213: 21300016
+    second: FemZomb_Idle_01
+  - first:
+      213: 21300018
+    second: FemZomb_Idle_02
+  - first:
+      213: 21300020
+    second: FemZomb_Idle_03
+  - first:
+      213: 21300022
+    second: FemZomb_Idle_04
+  - first:
+      213: 21300024
+    second: FemZomb_Idle_05
+  - first:
+      213: 21300026
+    second: FemZomb_Idle_06
+  - first:
+      213: 21300028
+    second: FemZomb_KnockDown_01
+  - first:
+      213: 21300030
+    second: FemZomb_KnockDown_02
+  - first:
+      213: 21300032
+    second: FemZomb_KnockDown_03
+  - first:
+      213: 21300034
+    second: FemZomb_KnockDown_04
+  - first:
+      213: 21300036
+    second: FemZomb_KnockDown_05
+  - first:
+      213: 21300038
+    second: FemZomb_KnockDown_06
+  - first:
+      213: 21300040
+    second: FemZomb_Walk_01
+  - first:
+      213: 21300042
+    second: FemZomb_Walk_02
+  - first:
+      213: 21300044
+    second: FemZomb_Walk_03
+  - first:
+      213: 21300046
+    second: FemZomb_Walk_04
+  - first:
+      213: 21300048
+    second: FemZomb_Walk_05
+  - first:
+      213: 21300050
+    second: FemZomb_Walk_06
+  - first:
+      213: 21300052
+    second: FemZomb_Walk_07
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemZomb_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 151
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.65217394, y: -0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 213
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4516129, y: -0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_HitReact_01
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_HitReact_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.43333334, y: -0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_HitReact_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6, y: -0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_HitReact_04
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 21
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45, y: -0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 169
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4516129, y: -0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 29
+        height: 38
+      alignment: 9
+      pivot: {x: 0.3448276, y: -0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3548387, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42424244, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 125
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4516129, y: -0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_KnockDown_01
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_KnockDown_02
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 121
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.53846157, y: -0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_KnockDown_03
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.53571427, y: -0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_KnockDown_04
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 40
+        height: 23
+      alignment: 9
+      pivot: {x: 0.575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_KnockDown_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5208333, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_KnockDown_06
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 41
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 212
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4516129, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 124
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4516129, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 81
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.37931034, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.375, y: -0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.43333334, y: -0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemZomb_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.27272728, y: -0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

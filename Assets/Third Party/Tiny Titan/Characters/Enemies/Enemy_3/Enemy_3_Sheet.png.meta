@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 68a554ad337666a4f8cfdd57181b3e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Miniboss_1_Sheet
+  - first:
+      213: 21300002
+    second: Mini_Boss_Attack_01_01
+  - first:
+      213: 21300004
+    second: Mini_Boss_Attack_01_02
+  - first:
+      213: 21300006
+    second: Mini_Boss_Attack_01_03
+  - first:
+      213: 21300008
+    second: Mini_Boss_Attack_01_04
+  - first:
+      213: 21300010
+    second: Mini_Boss_Attack_01_05
+  - first:
+      213: 21300012
+    second: Mini_Boss_Attack_01_06
+  - first:
+      213: 21300014
+    second: Mini_Boss_Attack_02_01
+  - first:
+      213: 21300016
+    second: Mini_Boss_Attack_02_02
+  - first:
+      213: 21300018
+    second: Mini_Boss_Attack_02_03
+  - first:
+      213: 21300020
+    second: Mini_Boss_Attack_02_04
+  - first:
+      213: 21300022
+    second: Mini_Boss_Attack_02_05
+  - first:
+      213: 21300024
+    second: Mini_Boss_Attack_02_06
+  - first:
+      213: 21300026
+    second: Mini_Boss_Hit_React_01
+  - first:
+      213: 21300028
+    second: Mini_Boss_Hit_React_02
+  - first:
+      213: 21300030
+    second: Mini_Boss_Hit_React_03
+  - first:
+      213: 21300032
+    second: Mini_Boss_Hit_React_04
+  - first:
+      213: 21300034
+    second: Mini_Boss_Idle_01
+  - first:
+      213: 21300036
+    second: Mini_Boss_Idle_02
+  - first:
+      213: 21300038
+    second: Mini_Boss_Idle_03
+  - first:
+      213: 21300040
+    second: Mini_Boss_Idle_04
+  - first:
+      213: 21300042
+    second: Mini_Boss_Idle_05
+  - first:
+      213: 21300044
+    second: Mini_Boss_Idle_06
+  - first:
+      213: 21300046
+    second: Mini_Boss_Walk_01
+  - first:
+      213: 21300048
+    second: Mini_Boss_Walk_02
+  - first:
+      213: 21300050
+    second: Mini_Boss_Walk_03
+  - first:
+      213: 21300052
+    second: Mini_Boss_Walk_04
+  - first:
+      213: 21300054
+    second: Mini_Boss_Walk_05
+  - first:
+      213: 21300056
+    second: Mini_Boss_Walk_06
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_01_01
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_01_02
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 215
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.62903225, y: -0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_01_03
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 172
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.8030303, y: -0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_01_04
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 137
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4021739, y: -0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_01_05
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 95
+        width: 52
+        height: 34
+      alignment: 9
+      pivot: {x: 0.35576922, y: -0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_01_06
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 91
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44047618, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_02_01
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 175
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_02_02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.62903225, y: -0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_02_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6891892, y: -0.069767445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_02_04
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 95
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.45833334, y: -0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_02_05
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6875, y: -0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Attack_02_06
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6447368, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Hit_React_01
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Hit_React_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7121212, y: -0.08571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Hit_React_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 217
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.67142856, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Hit_React_04
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 174
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.67142856, y: -0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 173
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6911765, y: -0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 217
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 218
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6447368, y: -0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.60714287, y: -0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 136
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.63095236, y: -0.08571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 133
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6375, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Boss_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6527778, y: -0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

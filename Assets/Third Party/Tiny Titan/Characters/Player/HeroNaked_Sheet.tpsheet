@@ -1,0 +1,139 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a5c02e26666fdaaa6a9f93e224f5ebbc:f8afbbdbae6084653514f7a9b6bb0b57:afcab29e6f9f1582fb96da4495c59db1$
+#
+:format=40300
+:texture=HeroNaked_Sheet.png
+:size=256x512
+:pivotpoints=enabled
+:borders=disabled
+
+HeroNaked_BackSideKick_01_01;1;341;19;29;    0.5; 0.0; 0;0;0;0
+HeroNaked_BackSideKick_01_02;22;402;31;28;   0.5; 0.0; 0;0;0;0
+HeroNaked_BackSideKick_01_03;28;246;25;31;   0.5; 0.0; 0;0;0;0
+HeroNaked_Bicycle_Kick_01;159;487;33;24;     0.5; 0.0; 0;0;0;0
+HeroNaked_Bicycle_Kick_02;54;402;25;28;      0.5; 0.0; 0;0;0;0
+HeroNaked_Bicycle_Kick_03;148;341;33;29;     0.5; 0.0; 0;0;0;0
+HeroNaked_Bicycle_Kick_04;182;341;28;29;     0.5; 0.0; 0;0;0;0
+HeroNaked_Eating_01;233;179;20;33;           0.5; 0.0; 0;0;0;0
+HeroNaked_Eating_02;54;310;22;30;            0.5; 0.0; 0;0;0;0
+HeroNaked_Eating_03;157;179;22;33;           0.5; 0.0; 0;0;0;0
+HeroNaked_FallLand_01;201;142;36;36;         0.5; 0.0; 0;0;0;0
+HeroNaked_FallLand_02;35;461;19;25;          0.5; 0.0; 0;0;0;0
+HeroNaked_FallLand_03;21;341;20;29;          0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_01;77;310;25;30;       0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_02;104;432;32;27;      0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_03;104;432;32;27;      0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_04;104;432;32;27;      0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_05;104;432;32;27;      0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_06;121;341;26;29;      0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_07;42;341;32;29;       0.5; 0.0; 0;0;0;0
+HeroNaked_Fireball_01_08;32;310;21;30;       0.5; 0.0; 0;0;0;0
+HeroNaked_Flip_Pose;1;489;22;22;             0.5; 0.0; 0;0;0;0
+HeroNaked_Flying_Side_Kick;155;402;38;28;    0.5; 0.0; 0;0;0;0
+HeroNaked_Foot_Slide_Attack;138;460;41;26;   0.5; 0.0; 0;0;0;0
+HeroNaked_FootSweep_01_01;99;341;21;29;      0.5; 0.0; 0;0;0;0
+HeroNaked_FootSweep_01_02;106;460;31;26;     0.5; 0.0; 0;0;0;0
+HeroNaked_FootSweep_01_03;55;461;23;25;      0.5; 0.0; 0;0;0;0
+HeroNaked_FootSweep_01_04;75;341;23;29;      0.5; 0.0; 0;0;0;0
+HeroNaked_Heroic_Landing_Pose;193;487;30;24; 0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_01;71;104;18;37;  0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_02;23;105;21;36;  0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_03;102;143;26;35; 0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_04;1;105;21;36;   0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_05;149;142;28;36; 0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_06;81;143;20;35;  0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_07;129;143;19;35; 0.5; 0.0; 0;0;0;0
+HeroNaked_HurricaneKick_01_08;174;432;20;27; 0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_01_01;219;278;21;31;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_01_02;91;180;21;32;           0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_01_03;197;278;21;31;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_01_04;47;279;22;30;           0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_01;219;278;21;31;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_02;91;180;21;32;           0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_03;211;341;21;29;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_04;225;310;26;30;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_05;169;310;27;30;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_06;183;371;27;29;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_07;197;310;27;30;          0.5; 0.0; 0;0;0;0
+HeroNaked_Idle_02_08;1;371;22;29;            0.5; 0.0; 0;0;0;0
+HeroNaked_JumpKick_01_01;78;213;20;32;       0.5; 0.0; 0;0;0;0
+HeroNaked_JumpKick_01_02;27;144;20;34;       0.5; 0.0; 0;0;0;0
+HeroNaked_JumpKick_01_03;1;144;25;34;        0.5; 0.0; 0;0;0;0
+HeroNaked_JumpKick_01_04;90;104;24;37;       0.5; 0.0; 0;0;0;0
+HeroNaked_JumpKick_01_05;82;433;21;26;       0.5; 0.0; 0;0;0;0
+HeroNaked_KnockBack_01_01;23;279;23;30;      0.5; 0.0; 0;0;0;0
+HeroNaked_KnockBack_01_02;1;279;21;30;       0.5; 0.0; 0;0;0;0
+HeroNaked_KnockBack_02_01;228;431;23;28;     0.5; 0.0; 0;0;0;0
+HeroNaked_KnockBack_02_02;194;401;21;29;     0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDown_01_01;73;246;35;31;      0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDown_01_02;1;433;36;26;       0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDown_01_03;24;489;32;22;      0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDown_01_04;24;489;32;22;      0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDownIdle_01_01;216;401;32;29; 0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDownIdle_01_02;24;371;32;29;  0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDownIdle_01_03;150;371;32;29; 0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDownIdle_01_04;211;371;32;29; 0.5; 0.0; 0;0;0;0
+HeroNaked_KnockDownIdle_01_05;99;402;32;28;  0.5; 0.0; 0;0;0;0
+HeroNaked_LeftPunch_01_01;1;180;18;32;       0.5; 0.0; 0;0;0;0
+HeroNaked_LeftPunch_01_02;184;213;30;32;     0.5; 0.0; 0;0;0;0
+HeroNaked_LeftPunch_01_03;109;246;20;31;     0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_01_01;54;246;18;31;        0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_01_02;130;246;31;31;       0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_01_03;138;213;23;32;       0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_01_04;20;180;18;32;        0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_02_01;184;246;21;31;       0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_02_02;1;246;26;31;         0.5; 0.0; 0;0;0;0
+HeroNaked_LowKick_02_03;150;278;18;31;       0.5; 0.0; 0;0;0;0
+HeroNaked_Peace_Symbol;207;179;25;33;        0.5; 0.0; 0;0;0;0
+HeroNaked_PlayerPunchGround_01;48;144;32;34; 0.5; 0.0; 0;0;0;0
+HeroNaked_PlayerPunchGround_02;83;487;33;24; 0.5; 0.0; 0;0;0;0
+HeroNaked_PlayerPunchGround_03;1;461;33;25;  0.5; 0.0; 0;0;0;0
+HeroNaked_PlayerShootHoops_01;178;142;22;36; 0.5; 0.0; 0;0;0;0
+HeroNaked_Power_Stance;103;310;32;30;        0.5; 0.0; 0;0;0;0
+HeroNaked_Punch_Ground_01;48;144;32;34;      0.5; 0.0; 0;0;0;0
+HeroNaked_Punch_Ground_02;83;487;33;24;      0.5; 0.0; 0;0;0;0
+HeroNaked_Punch_Ground_03;1;461;33;25;       0.5; 0.0; 0;0;0;0
+HeroNaked_RightPunch_01_01;39;180;20;32;     0.5; 0.0; 0;0;0;0
+HeroNaked_RightPunch_01_02;60;180;30;32;     0.5; 0.0; 0;0;0;0
+HeroNaked_RightPunch_01_03;118;213;19;32;    0.5; 0.0; 0;0;0;0
+HeroNaked_Run_01;1;310;30;30;                0.5; 0.0; 0;0;0;0
+HeroNaked_Run_02;132;402;22;28;              0.5; 0.0; 0;0;0;0
+HeroNaked_Run_03;225;246;24;31;              0.5; 0.0; 0;0;0;0
+HeroNaked_Run_04;169;278;27;31;              0.5; 0.0; 0;0;0;0
+HeroNaked_Run_05;1;402;20;28;                0.5; 0.0; 0;0;0;0
+HeroNaked_Run_06;215;213;25;32;              0.5; 0.0; 0;0;0;0
+HeroNaked_Shoot_Hoops;178;142;22;36;         0.5; 0.0; 0;0;0;0
+HeroNaked_Slide_01;57;371;38;29;             0.5; 0.0; 0;0;0;0
+HeroNaked_Splits_Punch_01;180;179;26;33;     0.5; 0.0; 0;0;0;0
+HeroNaked_Splits_Punch_02;117;487;41;24;     0.5; 0.0; 0;0;0;0
+HeroNaked_Splits_Punch_03;180;460;39;26;     0.5; 0.0; 0;0;0;0
+HeroNaked_Throw_01;136;310;32;30;            0.5; 0.0; 0;0;0;0
+HeroNaked_Throw_02;70;278;26;31;             0.5; 0.0; 0;0;0;0
+HeroNaked_Throw_03;137;432;36;27;            0.5; 0.0; 0;0;0;0
+HeroNaked_Thumbs_Up;47;213;30;32;            0.5; 0.0; 0;0;0;0
+HeroNaked_Tiny_Titan_Pose;195;432;32;27;     0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_01;61;433;20;26;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_02;80;402;18;28;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_03;134;179;22;33;      0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_04;134;98;24;43;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_05;115;100;18;41;      0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_06;79;460;26;26;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_01_07;38;433;22;26;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_02_01;57;489;25;22;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_02_03;45;104;25;37;       0.5; 0.0; 0;0;0;0
+HeroNaked_Uppercut_02_04;1;213;25;32;        0.5; 0.0; 0;0;0;0
+HeroNaked_Walk_01_01;206;246;18;31;          0.5; 0.0; 0;0;0;0
+HeroNaked_Walk_01_02;99;213;18;32;           0.5; 0.0; 0;0;0;0
+HeroNaked_Walk_01_03;27;213;19;32;           0.5; 0.0; 0;0;0;0
+HeroNaked_Walk_01_04;130;278;19;31;          0.5; 0.0; 0;0;0;0
+HeroNaked_Walk_01_05;113;180;20;32;          0.5; 0.0; 0;0;0;0
+HeroNaked_Walk_01_06;162;213;21;32;          0.5; 0.0; 0;0;0;0
+HeroNaked_Weapon_Swing_01;97;278;32;31;      0.5; 0.0; 0;0;0;0
+HeroNaked_Weapon_Swing_02;130;371;19;29;     0.5; 0.0; 0;0;0;0
+HeroNaked_Weapon_Swing_03;96;371;33;29;      0.5; 0.0; 0;0;0;0
+HeroNaked_Weapon_Swing_04;162;246;21;31;     0.5; 0.0; 0;0;0;0

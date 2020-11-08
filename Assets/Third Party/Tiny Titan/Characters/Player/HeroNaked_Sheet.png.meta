@@ -1,0 +1,3403 @@
+fileFormatVersion: 2
+guid: 11756a730ad80f54c817028758cfb852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BackSideKick_01_01
+  - first:
+      213: 21300002
+    second: BackSideKick_01_02
+  - first:
+      213: 21300004
+    second: BackSideKick_01_03
+  - first:
+      213: 21300006
+    second: FallLand_01
+  - first:
+      213: 21300008
+    second: FallLand_02
+  - first:
+      213: 21300010
+    second: FallLand_03
+  - first:
+      213: 21300012
+    second: Fireball_01_01
+  - first:
+      213: 21300014
+    second: Fireball_01_02
+  - first:
+      213: 21300016
+    second: Fireball_01_03
+  - first:
+      213: 21300018
+    second: Fireball_01_04
+  - first:
+      213: 21300020
+    second: Fireball_01_05
+  - first:
+      213: 21300022
+    second: Fireball_01_06
+  - first:
+      213: 21300024
+    second: Fireball_01_07
+  - first:
+      213: 21300026
+    second: Fireball_01_08
+  - first:
+      213: 21300028
+    second: FootSweep_01_01
+  - first:
+      213: 21300030
+    second: FootSweep_01_02
+  - first:
+      213: 21300032
+    second: FootSweep_01_03
+  - first:
+      213: 21300034
+    second: FootSweep_01_04
+  - first:
+      213: 21300036
+    second: HurricaneKick_01_01
+  - first:
+      213: 21300038
+    second: HurricaneKick_01_02
+  - first:
+      213: 21300040
+    second: HurricaneKick_01_03
+  - first:
+      213: 21300042
+    second: HurricaneKick_01_04
+  - first:
+      213: 21300044
+    second: HurricaneKick_01_05
+  - first:
+      213: 21300046
+    second: HurricaneKick_01_06
+  - first:
+      213: 21300048
+    second: HurricaneKick_01_07
+  - first:
+      213: 21300050
+    second: HurricaneKick_01_08
+  - first:
+      213: 21300052
+    second: Idle_01_01
+  - first:
+      213: 21300054
+    second: Idle_01_02
+  - first:
+      213: 21300056
+    second: Idle_01_03
+  - first:
+      213: 21300058
+    second: Idle_01_04
+  - first:
+      213: 21300060
+    second: Idle_02_01
+  - first:
+      213: 21300062
+    second: Idle_02_02
+  - first:
+      213: 21300064
+    second: Idle_02_03
+  - first:
+      213: 21300066
+    second: Idle_02_04
+  - first:
+      213: 21300068
+    second: Idle_02_05
+  - first:
+      213: 21300070
+    second: Idle_02_06
+  - first:
+      213: 21300072
+    second: Idle_02_07
+  - first:
+      213: 21300074
+    second: Idle_02_08
+  - first:
+      213: 21300076
+    second: JumpKick_01_01
+  - first:
+      213: 21300078
+    second: JumpKick_01_02
+  - first:
+      213: 21300080
+    second: JumpKick_01_03
+  - first:
+      213: 21300082
+    second: JumpKick_01_04
+  - first:
+      213: 21300084
+    second: JumpKick_01_05
+  - first:
+      213: 21300086
+    second: KnockBack_01_01
+  - first:
+      213: 21300088
+    second: KnockBack_01_02
+  - first:
+      213: 21300090
+    second: KnockBack_02_01
+  - first:
+      213: 21300092
+    second: KnockBack_02_02
+  - first:
+      213: 21300094
+    second: KnockDown_01_01
+  - first:
+      213: 21300096
+    second: KnockDown_01_02
+  - first:
+      213: 21300098
+    second: KnockDown_01_03
+  - first:
+      213: 21300100
+    second: KnockDown_01_04
+  - first:
+      213: 21300102
+    second: KnockDownIdle_01_01
+  - first:
+      213: 21300104
+    second: KnockDownIdle_01_02
+  - first:
+      213: 21300106
+    second: KnockDownIdle_01_03
+  - first:
+      213: 21300108
+    second: KnockDownIdle_01_04
+  - first:
+      213: 21300110
+    second: KnockDownIdle_01_05
+  - first:
+      213: 21300112
+    second: LeftPunch_01_01
+  - first:
+      213: 21300114
+    second: LeftPunch_01_02
+  - first:
+      213: 21300116
+    second: LeftPunch_01_03
+  - first:
+      213: 21300118
+    second: LowKick_01_01
+  - first:
+      213: 21300120
+    second: LowKick_01_02
+  - first:
+      213: 21300122
+    second: LowKick_01_03
+  - first:
+      213: 21300124
+    second: LowKick_01_04
+  - first:
+      213: 21300126
+    second: LowKick_02_01
+  - first:
+      213: 21300128
+    second: LowKick_02_02
+  - first:
+      213: 21300130
+    second: LowKick_02_03
+  - first:
+      213: 21300132
+    second: PlayerPunchGround_01
+  - first:
+      213: 21300134
+    second: PlayerPunchGround_02
+  - first:
+      213: 21300136
+    second: PlayerPunchGround_03
+  - first:
+      213: 21300138
+    second: PlayerShootHoops_01
+  - first:
+      213: 21300140
+    second: RightPunch_01_01
+  - first:
+      213: 21300142
+    second: RightPunch_01_02
+  - first:
+      213: 21300144
+    second: RightPunch_01_03
+  - first:
+      213: 21300146
+    second: Run_01
+  - first:
+      213: 21300148
+    second: Run_02
+  - first:
+      213: 21300150
+    second: Run_03
+  - first:
+      213: 21300152
+    second: Run_04
+  - first:
+      213: 21300154
+    second: Run_05
+  - first:
+      213: 21300156
+    second: Run_06
+  - first:
+      213: 21300158
+    second: Slide_01
+  - first:
+      213: 21300160
+    second: Uppercut_01_01
+  - first:
+      213: 21300162
+    second: Uppercut_01_02
+  - first:
+      213: 21300164
+    second: Uppercut_01_03
+  - first:
+      213: 21300166
+    second: Uppercut_01_04
+  - first:
+      213: 21300168
+    second: Uppercut_01_05
+  - first:
+      213: 21300170
+    second: Uppercut_01_06
+  - first:
+      213: 21300172
+    second: Uppercut_01_07
+  - first:
+      213: 21300174
+    second: Uppercut_02_01
+  - first:
+      213: 21300176
+    second: Uppercut_02_03
+  - first:
+      213: 21300178
+    second: Uppercut_02_04
+  - first:
+      213: 21300180
+    second: Walk_01_01
+  - first:
+      213: 21300182
+    second: Walk_01_02
+  - first:
+      213: 21300184
+    second: Walk_01_03
+  - first:
+      213: 21300186
+    second: Walk_01_04
+  - first:
+      213: 21300188
+    second: Walk_01_05
+  - first:
+      213: 21300190
+    second: Walk_01_06
+  - first:
+      213: 21300192
+    second: HeroNaked_BackSideKick_01_01
+  - first:
+      213: 21300194
+    second: HeroNaked_BackSideKick_01_02
+  - first:
+      213: 21300196
+    second: HeroNaked_BackSideKick_01_03
+  - first:
+      213: 21300198
+    second: HeroNaked_FallLand_01
+  - first:
+      213: 21300200
+    second: HeroNaked_FallLand_02
+  - first:
+      213: 21300202
+    second: HeroNaked_FallLand_03
+  - first:
+      213: 21300204
+    second: HeroNaked_Fireball_01_01
+  - first:
+      213: 21300206
+    second: HeroNaked_Fireball_01_02
+  - first:
+      213: 21300208
+    second: HeroNaked_Fireball_01_03
+  - first:
+      213: 21300210
+    second: HeroNaked_Fireball_01_04
+  - first:
+      213: 21300212
+    second: HeroNaked_Fireball_01_05
+  - first:
+      213: 21300214
+    second: HeroNaked_Fireball_01_06
+  - first:
+      213: 21300216
+    second: HeroNaked_Fireball_01_07
+  - first:
+      213: 21300218
+    second: HeroNaked_Fireball_01_08
+  - first:
+      213: 21300220
+    second: HeroNaked_FootSweep_01_01
+  - first:
+      213: 21300222
+    second: HeroNaked_FootSweep_01_02
+  - first:
+      213: 21300224
+    second: HeroNaked_FootSweep_01_03
+  - first:
+      213: 21300226
+    second: HeroNaked_FootSweep_01_04
+  - first:
+      213: 21300228
+    second: HeroNaked_HurricaneKick_01_01
+  - first:
+      213: 21300230
+    second: HeroNaked_HurricaneKick_01_02
+  - first:
+      213: 21300232
+    second: HeroNaked_HurricaneKick_01_03
+  - first:
+      213: 21300234
+    second: HeroNaked_HurricaneKick_01_04
+  - first:
+      213: 21300236
+    second: HeroNaked_HurricaneKick_01_05
+  - first:
+      213: 21300238
+    second: HeroNaked_HurricaneKick_01_06
+  - first:
+      213: 21300240
+    second: HeroNaked_HurricaneKick_01_07
+  - first:
+      213: 21300242
+    second: HeroNaked_HurricaneKick_01_08
+  - first:
+      213: 21300244
+    second: HeroNaked_Idle_01_01
+  - first:
+      213: 21300246
+    second: HeroNaked_Idle_01_02
+  - first:
+      213: 21300248
+    second: HeroNaked_Idle_01_03
+  - first:
+      213: 21300250
+    second: HeroNaked_Idle_01_04
+  - first:
+      213: 21300252
+    second: HeroNaked_Idle_02_01
+  - first:
+      213: 21300254
+    second: HeroNaked_Idle_02_02
+  - first:
+      213: 21300256
+    second: HeroNaked_Idle_02_03
+  - first:
+      213: 21300258
+    second: HeroNaked_Idle_02_04
+  - first:
+      213: 21300260
+    second: HeroNaked_Idle_02_05
+  - first:
+      213: 21300262
+    second: HeroNaked_Idle_02_06
+  - first:
+      213: 21300264
+    second: HeroNaked_Idle_02_07
+  - first:
+      213: 21300266
+    second: HeroNaked_Idle_02_08
+  - first:
+      213: 21300268
+    second: HeroNaked_JumpKick_01_01
+  - first:
+      213: 21300270
+    second: HeroNaked_JumpKick_01_02
+  - first:
+      213: 21300272
+    second: HeroNaked_JumpKick_01_03
+  - first:
+      213: 21300274
+    second: HeroNaked_JumpKick_01_04
+  - first:
+      213: 21300276
+    second: HeroNaked_JumpKick_01_05
+  - first:
+      213: 21300278
+    second: HeroNaked_KnockBack_01_01
+  - first:
+      213: 21300280
+    second: HeroNaked_KnockBack_01_02
+  - first:
+      213: 21300282
+    second: HeroNaked_KnockBack_02_01
+  - first:
+      213: 21300284
+    second: HeroNaked_KnockBack_02_02
+  - first:
+      213: 21300286
+    second: HeroNaked_KnockDown_01_01
+  - first:
+      213: 21300288
+    second: HeroNaked_KnockDown_01_02
+  - first:
+      213: 21300290
+    second: HeroNaked_KnockDown_01_03
+  - first:
+      213: 21300292
+    second: HeroNaked_KnockDown_01_04
+  - first:
+      213: 21300294
+    second: HeroNaked_KnockDownIdle_01_01
+  - first:
+      213: 21300296
+    second: HeroNaked_KnockDownIdle_01_02
+  - first:
+      213: 21300298
+    second: HeroNaked_KnockDownIdle_01_03
+  - first:
+      213: 21300300
+    second: HeroNaked_KnockDownIdle_01_04
+  - first:
+      213: 21300302
+    second: HeroNaked_KnockDownIdle_01_05
+  - first:
+      213: 21300304
+    second: HeroNaked_LeftPunch_01_01
+  - first:
+      213: 21300306
+    second: HeroNaked_LeftPunch_01_02
+  - first:
+      213: 21300308
+    second: HeroNaked_LeftPunch_01_03
+  - first:
+      213: 21300310
+    second: HeroNaked_LowKick_01_01
+  - first:
+      213: 21300312
+    second: HeroNaked_LowKick_01_02
+  - first:
+      213: 21300314
+    second: HeroNaked_LowKick_01_03
+  - first:
+      213: 21300316
+    second: HeroNaked_LowKick_01_04
+  - first:
+      213: 21300318
+    second: HeroNaked_LowKick_02_01
+  - first:
+      213: 21300320
+    second: HeroNaked_LowKick_02_02
+  - first:
+      213: 21300322
+    second: HeroNaked_LowKick_02_03
+  - first:
+      213: 21300324
+    second: HeroNaked_PlayerPunchGround_01
+  - first:
+      213: 21300326
+    second: HeroNaked_PlayerPunchGround_02
+  - first:
+      213: 21300328
+    second: HeroNaked_PlayerPunchGround_03
+  - first:
+      213: 21300330
+    second: HeroNaked_PlayerShootHoops_01
+  - first:
+      213: 21300332
+    second: HeroNaked_RightPunch_01_01
+  - first:
+      213: 21300334
+    second: HeroNaked_RightPunch_01_02
+  - first:
+      213: 21300336
+    second: HeroNaked_RightPunch_01_03
+  - first:
+      213: 21300338
+    second: HeroNaked_Run_01
+  - first:
+      213: 21300340
+    second: HeroNaked_Run_02
+  - first:
+      213: 21300342
+    second: HeroNaked_Run_03
+  - first:
+      213: 21300344
+    second: HeroNaked_Run_04
+  - first:
+      213: 21300346
+    second: HeroNaked_Run_05
+  - first:
+      213: 21300348
+    second: HeroNaked_Run_06
+  - first:
+      213: 21300350
+    second: HeroNaked_Slide_01
+  - first:
+      213: 21300352
+    second: HeroNaked_Uppercut_01_01
+  - first:
+      213: 21300354
+    second: HeroNaked_Uppercut_01_02
+  - first:
+      213: 21300356
+    second: HeroNaked_Uppercut_01_03
+  - first:
+      213: 21300358
+    second: HeroNaked_Uppercut_01_04
+  - first:
+      213: 21300360
+    second: HeroNaked_Uppercut_01_05
+  - first:
+      213: 21300362
+    second: HeroNaked_Uppercut_01_06
+  - first:
+      213: 21300364
+    second: HeroNaked_Uppercut_01_07
+  - first:
+      213: 21300366
+    second: HeroNaked_Uppercut_02_01
+  - first:
+      213: 21300368
+    second: HeroNaked_Uppercut_02_03
+  - first:
+      213: 21300370
+    second: HeroNaked_Uppercut_02_04
+  - first:
+      213: 21300372
+    second: HeroNaked_Walk_01_01
+  - first:
+      213: 21300374
+    second: HeroNaked_Walk_01_02
+  - first:
+      213: 21300376
+    second: HeroNaked_Walk_01_03
+  - first:
+      213: 21300378
+    second: HeroNaked_Walk_01_04
+  - first:
+      213: 21300380
+    second: HeroNaked_Walk_01_05
+  - first:
+      213: 21300382
+    second: HeroNaked_Walk_01_06
+  - first:
+      213: 21300384
+    second: HeroNaked_Bicycle_Kick_01
+  - first:
+      213: 21300386
+    second: HeroNaked_Bicycle_Kick_02
+  - first:
+      213: 21300388
+    second: HeroNaked_Bicycle_Kick_03
+  - first:
+      213: 21300390
+    second: HeroNaked_Bicycle_Kick_04
+  - first:
+      213: 21300392
+    second: HeroNaked_Eating_01
+  - first:
+      213: 21300394
+    second: HeroNaked_Eating_02
+  - first:
+      213: 21300396
+    second: HeroNaked_Eating_03
+  - first:
+      213: 21300398
+    second: HeroNaked_Flip_Pose
+  - first:
+      213: 21300400
+    second: HeroNaked_Flying_Side_Kick
+  - first:
+      213: 21300402
+    second: HeroNaked_Foot_Slide_Attack
+  - first:
+      213: 21300404
+    second: HeroNaked_Heroic_Landing_Pose
+  - first:
+      213: 21300406
+    second: HeroNaked_Peace_Symbol
+  - first:
+      213: 21300408
+    second: HeroNaked_Power_Stance
+  - first:
+      213: 21300410
+    second: HeroNaked_Splits_Punch_01
+  - first:
+      213: 21300412
+    second: HeroNaked_Splits_Punch_02
+  - first:
+      213: 21300414
+    second: HeroNaked_Splits_Punch_03
+  - first:
+      213: 21300416
+    second: HeroNaked_Throw_01
+  - first:
+      213: 21300418
+    second: HeroNaked_Throw_02
+  - first:
+      213: 21300420
+    second: HeroNaked_Throw_03
+  - first:
+      213: 21300422
+    second: HeroNaked_Thumbs_Up
+  - first:
+      213: 21300424
+    second: HeroNaked_Tiny_Titan_Pose
+  - first:
+      213: 21300426
+    second: HeroNaked_Weapon_Swing_01
+  - first:
+      213: 21300428
+    second: HeroNaked_Weapon_Swing_02
+  - first:
+      213: 21300430
+    second: HeroNaked_Weapon_Swing_03
+  - first:
+      213: 21300432
+    second: HeroNaked_Weapon_Swing_04
+  - first:
+      213: 21300434
+    second: HeroNaked_Punch_Ground_01
+  - first:
+      213: 21300436
+    second: HeroNaked_Punch_Ground_02
+  - first:
+      213: 21300438
+    second: HeroNaked_Punch_Ground_03
+  - first:
+      213: 21300440
+    second: HeroNaked_Shoot_Hoops
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroNaked_BackSideKick_01_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_BackSideKick_01_02
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 402
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_BackSideKick_01_03
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 246
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Bicycle_Kick_01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 487
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Bicycle_Kick_02
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 402
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Bicycle_Kick_03
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 341
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Bicycle_Kick_04
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Eating_01
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 179
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Eating_02
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 310
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Eating_03
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 179
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FallLand_01
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 142
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FallLand_02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 461
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FallLand_03
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 341
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_01
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 310
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_02
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_03
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_04
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_05
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_06
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 341
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_07
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 341
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Fireball_01_08
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 310
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Flip_Pose
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Flying_Side_Kick
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 402
+        width: 38
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Foot_Slide_Attack
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 460
+        width: 41
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FootSweep_01_01
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 341
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FootSweep_01_02
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 460
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FootSweep_01_03
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 461
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_FootSweep_01_04
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 341
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Heroic_Landing_Pose
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 487
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_01
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 18
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_02
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 105
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 143
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_05
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 142
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_06
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_07
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 143
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_HurricaneKick_01_08
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 432
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_01_01
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 278
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_01_02
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 180
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_01_03
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 278
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_01_04
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 279
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_01
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 278
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_02
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 180
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_03
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_04
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 310
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_05
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 310
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_06
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 371
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_07
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 310
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Idle_02_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_JumpKick_01_01
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 213
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_JumpKick_01_02
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_JumpKick_01_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_JumpKick_01_04
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 104
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_JumpKick_01_05
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 433
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockBack_01_01
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 279
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockBack_01_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockBack_02_01
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 431
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockBack_02_02
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 401
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDown_01_01
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 246
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDown_01_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 36
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDown_01_03
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 489
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDown_01_04
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 489
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDownIdle_01_01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 401
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDownIdle_01_02
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 371
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDownIdle_01_03
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 371
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDownIdle_01_04
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 371
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_KnockDownIdle_01_05
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 402
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LeftPunch_01_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LeftPunch_01_02
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 213
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LeftPunch_01_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 246
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_01_01
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 246
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_01_02
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 246
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_01_03
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 213
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_01_04
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_02_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 246
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_02_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_LowKick_02_03
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 278
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Peace_Symbol
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 179
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_PlayerPunchGround_01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_PlayerPunchGround_02
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 487
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_PlayerPunchGround_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 33
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_PlayerShootHoops_01
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 142
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Power_Stance
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 310
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Punch_Ground_01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Punch_Ground_02
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 487
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Punch_Ground_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 33
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_RightPunch_01_01
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 180
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_RightPunch_01_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_RightPunch_01_03
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 213
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Run_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Run_02
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 402
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Run_03
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 246
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Run_04
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 278
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Run_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 402
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Run_06
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 213
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Shoot_Hoops
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 142
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Slide_01
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 371
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Splits_Punch_01
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 179
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Splits_Punch_02
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 487
+        width: 41
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Splits_Punch_03
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 460
+        width: 39
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Throw_01
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 310
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Throw_02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 278
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Throw_03
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 432
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Thumbs_Up
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 213
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Tiny_Titan_Pose
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 432
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 433
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 402
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_03
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 179
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_04
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 24
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_05
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 100
+        width: 18
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_06
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 460
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_01_07
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 433
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_02_01
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 489
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_02_03
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 104
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Uppercut_02_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Walk_01_01
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 246
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Walk_01_02
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 213
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Walk_01_03
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 213
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Walk_01_04
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 278
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Walk_01_05
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 180
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Walk_01_06
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 213
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Weapon_Swing_01
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 278
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Weapon_Swing_02
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 371
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Weapon_Swing_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 371
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroNaked_Weapon_Swing_04
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 246
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3002fc49a3a254946a46606ad658aa3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

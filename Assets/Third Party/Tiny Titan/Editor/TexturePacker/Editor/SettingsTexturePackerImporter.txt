@@ -1,0 +1,777 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/AssetBundles/UI/Atlas_UI.tpsheet
+- Assets/Sprites/Effects/CandyCorn_Burst_01_Sheet.tpsheet
+- Assets/Sprites/Effects/CandyCorn_Burst_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Effects_1_Sheet.tpsheet
+- Assets/Sprites/Effects/Effects_1_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Elec_Kick_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Elec_Kick_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Explosion_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Explosion_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Fire_Burst_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Fire_Burst_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Fire_Burst_02_Sheet.tpsheet
+- Assets/Sprites/Effects/Fireball_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Fireball_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Hit_Spark_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Hit_Spark_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/HitSparksBats_Sheet.tpsheet
+- Assets/Sprites/Effects/HitSparksBats_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/IceBlock_01_Sheet.tpsheet
+- Assets/Sprites/Effects/IceBlock_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Levelup_01_Sheet.tpsheet
+- Assets/Sprites/Effects/PathOfChristmasEffect_Sheet.tpsheet
+- Assets/Sprites/Effects/PathOfChristmasEffect_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/PathOfTheBatEffect_Sheet.tpsheet
+- Assets/Sprites/Effects/PathOfTheBatEffect_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/PickupGlow_01_Sheet.tpsheet
+- Assets/Sprites/Effects/PickupHitsparks_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Poison_Bomb_Explosion_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Poison_Bomb_Explosion_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Present_Explosion_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Present_Explosion_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/PresentBomb_Sheet.tpsheet
+- Assets/Sprites/Effects/PresentBomb_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/PumpkinBomb_Sheet.tpsheet
+- Assets/Sprites/Effects/PumpkinBomb_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Scroll_Effect_02_Sheet.tpsheet
+- Assets/Sprites/Effects/Scroll_Effect_02_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/ScrollEffect_01_Sheet.tpsheet
+- Assets/Sprites/Effects/ScrollEffect_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/ScrollEffect_03_Sheet.tpsheet
+- Assets/Sprites/Effects/ScrollEffect_03_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Smoke_Plume_01_Sheet.tpsheet
+- Assets/Sprites/Effects/Smoke_Plume_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/Snowball_Sheet.tpsheet
+- Assets/Sprites/Effects/Snowball_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/SpiderWebBall_Sheet.tpsheet
+- Assets/Sprites/Effects/SpiderWebBall_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/SpiderWebBallExplosion_Sheet.tpsheet
+- Assets/Sprites/Effects/SpiderWebBallExplosion_Sheet_Lookup.tpsheet
+- Assets/Sprites/Effects/TapRing/TapRing_01_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_1_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_1_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_10_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_10_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_11_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_11_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_12_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_12_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_13_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_13_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_14_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_15_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_16_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_17_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_18_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_19_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_2_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_2_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_20_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_21_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_22_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_23_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_23_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_24_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_24_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_25_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_25_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_3_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_3_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_4_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_4_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_5_sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_5_sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_6_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_6_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_7_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_7_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_8_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_8_Sheet_Lookup.tpsheet
+- Assets/Sprites/Enemies/Enemy_9_Sheet.tpsheet
+- Assets/Sprites/Enemies/Enemy_9_Sheet_Lookup.tpsheet
+- Assets/Sprites/Pickups/Baseball_Bat_01_Sheet.tpsheet
+- Assets/Sprites/Pickups/Boombox_01_Sheet.tpsheet
+- Assets/Sprites/Pickups/Candy_Cane_01_Sheet.tpsheet
+- Assets/Sprites/Pickups/NuclearKnuckles_01_Sheet.tpsheet
+- Assets/Sprites/Pickups/PepperFireBreath_01_Sheet.tpsheet
+- Assets/Sprites/Pickups/ShreddingClaws_01_Sheet.tpsheet
+- Assets/Sprites/Player/AsianFarmerChest_Sheet.tpsheet
+- Assets/Sprites/Player/AsianFarmerChest_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/AsianFarmerHead.tpsheet
+- Assets/Sprites/Player/AsianFarmerHead_Sheet.tpsheet
+- Assets/Sprites/Player/AsianFarmerHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/AsianFarmerPants.tpsheet
+- Assets/Sprites/Player/AsianFarmerPants_Sheet.tpsheet
+- Assets/Sprites/Player/AsianFarmerPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/BaseballHat_Sheet.tpsheet
+- Assets/Sprites/Player/BaseballHat_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/CylonHelmet_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/CylonPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/CylonShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/DemonHair_Sheet.tpsheet
+- Assets/Sprites/Player/DemonHair_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ElfHead_Sheet.tpsheet
+- Assets/Sprites/Player/ElfHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ElfPants_Sheet.tpsheet
+- Assets/Sprites/Player/ElfPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ElfTorso_Sheet.tpsheet
+- Assets/Sprites/Player/ElfTorso_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/FancyHat_Sheet.tpsheet
+- Assets/Sprites/Player/FancyHat_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/FancyPants_Sheet.tpsheet
+- Assets/Sprites/Player/FancyPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/FancyTop_Sheet.tpsheet
+- Assets/Sprites/Player/FancyTop_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/GhostHead_Sheet.tpsheet
+- Assets/Sprites/Player/GhostHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/GhostPants_Sheet.tpsheet
+- Assets/Sprites/Player/GhostPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/GhostShirt_Sheet.tpsheet
+- Assets/Sprites/Player/GhostShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/GiPants_Sheet.tpsheet
+- Assets/Sprites/Player/GiPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/GiTop_Sheet.tpsheet
+- Assets/Sprites/Player/GiTop_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/Headband_Sheet.tpsheet
+- Assets/Sprites/Player/Headband_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/HeroNaked_Sheet.tpsheet
+- Assets/Sprites/Player/HeroNaked_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/KombatMask_Sheet.tpsheet
+- Assets/Sprites/Player/KombatMask_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/KombatPants_Sheet.tpsheet
+- Assets/Sprites/Player/KombatPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/KombatTop_Sheet.tpsheet
+- Assets/Sprites/Player/KombatTop_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/KrampusHead_Sheet.tpsheet
+- Assets/Sprites/Player/KrampusHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/KrampusPants_Sheet.tpsheet
+- Assets/Sprites/Player/KrampusPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/KrampusShirt_Sheet.tpsheet
+- Assets/Sprites/Player/KrampusShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/MedicalMask_Sheet.tpsheet
+- Assets/Sprites/Player/MedicalMask_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/PumpkinChest_sheet.tpsheet
+- Assets/Sprites/Player/PumpkinChest_sheet_Lookup.tpsheet
+- Assets/Sprites/Player/PumpkinHead_sheet.tpsheet
+- Assets/Sprites/Player/PumpkinHead_sheet_Lookup.tpsheet
+- Assets/Sprites/Player/PumpkinLegs_sheet.tpsheet
+- Assets/Sprites/Player/PumpkinLegs_sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RaidenHat_Sheet.tpsheet
+- Assets/Sprites/Player/RaidenHat_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RaidenPants_Sheet.tpsheet
+- Assets/Sprites/Player/RaidenPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RaidenShirt_Sheet.tpsheet
+- Assets/Sprites/Player/RaidenShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ReaperHead_sheet.tpsheet
+- Assets/Sprites/Player/ReaperHead_sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ReaperPants_Sheet.tpsheet
+- Assets/Sprites/Player/ReaperPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ReaperShirt_Sheet.tpsheet
+- Assets/Sprites/Player/ReaperShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ReindeerHead_Sheet.tpsheet
+- Assets/Sprites/Player/ReindeerHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ReindeerPants_Sheet.tpsheet
+- Assets/Sprites/Player/ReindeerPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ReindeerShirt_Sheet.tpsheet
+- Assets/Sprites/Player/ReindeerShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RippedJeans_Sheet.tpsheet
+- Assets/Sprites/Player/RippedJeans_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RobotChest_Sheet.tpsheet
+- Assets/Sprites/Player/RobotChest_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RobotHead_Sheet.tpsheet
+- Assets/Sprites/Player/RobotHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/RobotPants_Sheet.tpsheet
+- Assets/Sprites/Player/RobotPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/SantaHead_Sheet.tpsheet
+- Assets/Sprites/Player/SantaHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/SantaPants_Sheet.tpsheet
+- Assets/Sprites/Player/SantaPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/SantaShirt_Sheet.tpsheet
+- Assets/Sprites/Player/SantaShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ScrubPants_Sheet.tpsheet
+- Assets/Sprites/Player/ScrubPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ScrubTop_Sheet.tpsheet
+- Assets/Sprites/Player/ScrubTop_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TankTop_Sheet.tpsheet
+- Assets/Sprites/Player/TankTop_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ThrillmanChest_Sheet.tpsheet
+- Assets/Sprites/Player/ThrillmanChest_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ThrillmanHead_Sheet.tpsheet
+- Assets/Sprites/Player/ThrillmanHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/ThrillmanPants_Sheet.tpsheet
+- Assets/Sprites/Player/ThrillmanPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TrackHelmet_Sheet.tpsheet
+- Assets/Sprites/Player/TrackHelmet_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TrackPants_Sheet.tpsheet
+- Assets/Sprites/Player/TrackPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TrackShirt_Sheet.tpsheet
+- Assets/Sprites/Player/TrackShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TronHead_Sheet.tpsheet
+- Assets/Sprites/Player/TronHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TronPants_Sheet.tpsheet
+- Assets/Sprites/Player/TronPants_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/TronShirt_Sheet.tpsheet
+- Assets/Sprites/Player/TronShirt_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/VampireChest_Sheet.tpsheet
+- Assets/Sprites/Player/VampireChest_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/VampireHead_Sheet.tpsheet
+- Assets/Sprites/Player/VampireHead_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/VampireLegs_Sheet.tpsheet
+- Assets/Sprites/Player/VampireLegs_Sheet_Lookup.tpsheet
+- Assets/Sprites/Player/Xavier_Sheet.tpsheet
+- Assets/Sprites/Player/Xavier_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Bruce_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Bruce_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Dragon_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Elf_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Elf_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/GBPet_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/GBPet_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Gundam_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Gundam_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/IronDude_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/IronDude_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Katniss_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Katniss_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/kfg_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/kfg_costume_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Marty_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Marty_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Robot_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Robot_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Robot_Costume_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/SamuraiGirl_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Skeleton_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Turtle_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Turtle_01_Sheet_Lookup.tpsheet
+- Assets/Sprites/SideKicks/Zoey_01_Sheet.tpsheet
+- Assets/Sprites/SideKicks/Zoey_Costume_01_Sheet.tpsheet
+- Assets/Sprites/UI/Sensei/Sensei_Dialog_Sheet.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_1/Enemy_1_Sheet.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_1/Enemy_1_Sheet_Lookup.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_2/Enemy_2_Sheet_Lookup.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_3/Enemy_3_Sheet.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_3/Enemy_3_Sheet_Lookup.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Player/HeroNaked_Sheet.tpsheet
+- Assets/Third Party/Tiny Titan/Characters/Player/HeroNaked_Sheet_Lookup.tpsheet
+- Assets/TileMapAutoRule/Atlas-MayhemTest.tpsheet
+textureFileNames:
+- Assets/AssetBundles/UI/Atlas_UI.png
+- Assets/Sprites/Effects/CandyCorn_Burst_01_Sheet.png
+- Assets/Sprites/Effects/CandyCorn_Burst_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Effects_01_Sheet.png
+- Assets/Sprites/Effects/Effects_1_Sheet_Lookup.png
+- Assets/Sprites/Effects/Elec_Kick_01_Sheet.png
+- Assets/Sprites/Effects/Elec_Kick_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Explosion_01_Sheet.png
+- Assets/Sprites/Effects/Explosion_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Fire_Burst_01_Sheet.png
+- Assets/Sprites/Effects/Fire_Burst_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Fire_Burst_02_Sheet.png
+- Assets/Sprites/Effects/Fireball_01_Sheet.png
+- Assets/Sprites/Effects/Fireball_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Hit_Spark_01_Sheet.png
+- Assets/Sprites/Effects/Hit_Spark_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/HitSparksBats_Sheet.png
+- Assets/Sprites/Effects/HitSparksBats_Sheet_Lookup.png
+- Assets/Sprites/Effects/IceBlock_01_Sheet.png
+- Assets/Sprites/Effects/IceBlock_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Levelup_01_Sheet.png
+- Assets/Sprites/Effects/PathOfChristmasEffect_Sheet.png
+- Assets/Sprites/Effects/PathOfChristmasEffect_Sheet_Lookup.png
+- Assets/Sprites/Effects/PathOfTheBatEffect_Sheet.png
+- Assets/Sprites/Effects/PathOfTheBatEffect_Sheet_Lookup.png
+- Assets/Sprites/Effects/PickupGlow_01_Sheet.png
+- Assets/Sprites/Effects/PickupHitsparks_01_Sheet.png
+- Assets/Sprites/Effects/Poison_Bomb_Explosion_01_Sheet.png
+- Assets/Sprites/Effects/Poison_Bomb_Explosion_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Present_Explosion_01_Sheet.png
+- Assets/Sprites/Effects/Present_Explosion_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/PresentBomb_Sheet.png
+- Assets/Sprites/Effects/PresentBomb_Sheet_Lookup.png
+- Assets/Sprites/Effects/PumpkinBomb_Sheet.png
+- Assets/Sprites/Effects/PumpkinBomb_Sheet_Lookup.png
+- Assets/Sprites/Effects/Scroll_Effect_02_Sheet.png
+- Assets/Sprites/Effects/Scroll_Effect_02_Sheet_Lookup.png
+- Assets/Sprites/Effects/ScrollEffect_01_Sheet.png
+- Assets/Sprites/Effects/ScrollEffect_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/ScrollEffect_03_Sheet.png
+- Assets/Sprites/Effects/ScrollEffect_03_Sheet_Lookup.png
+- Assets/Sprites/Effects/Smoke_Plume_01_Sheet.png
+- Assets/Sprites/Effects/Smoke_Plume_01_Sheet_Lookup.png
+- Assets/Sprites/Effects/Snowball_Sheet.png
+- Assets/Sprites/Effects/Snowball_Sheet_Lookup.png
+- Assets/Sprites/Effects/SpiderWebBall_Sheet.png
+- Assets/Sprites/Effects/SpiderWebBall_Sheet_Lookup.png
+- Assets/Sprites/Effects/SpiderWebBallExplosion_Sheet.png
+- Assets/Sprites/Effects/SpiderWebBallExplosion_Sheet_Lookup.png
+- Assets/Sprites/Effects/TapRing/TapRing_01_Sheet.png
+- Assets/Sprites/Enemies/Enemy_1_Sheet.png
+- Assets/Sprites/Enemies/Enemy_1_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_10_Sheet.png
+- Assets/Sprites/Enemies/Enemy_10_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_11_Sheet.png
+- Assets/Sprites/Enemies/Enemy_11_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_12_Sheet.png
+- Assets/Sprites/Enemies/Enemy_12_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_13_Sheet.png
+- Assets/Sprites/Enemies/Enemy_13_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_14_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_15_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_16_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_17_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_18_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_19_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_2_Sheet.png
+- Assets/Sprites/Enemies/Enemy_2_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_20_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_21_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_22_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_23_Sheet.png
+- Assets/Sprites/Enemies/Enemy_23_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_24_Sheet.png
+- Assets/Sprites/Enemies/Enemy_24_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_25_Sheet.png
+- Assets/Sprites/Enemies/Enemy_25_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_3_Sheet.png
+- Assets/Sprites/Enemies/Enemy_3_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_4_Sheet.png
+- Assets/Sprites/Enemies/Enemy_4_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_5_sheet.png
+- Assets/Sprites/Enemies/Enemy_5_sheet_Lookup.png
+- Assets/Sprites/Enemies/Miniboss_1_Sheet.png
+- Assets/Sprites/Enemies/Enemy_6_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_7_Sheet.png
+- Assets/Sprites/Enemies/Enemy_7_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_8_Sheet.png
+- Assets/Sprites/Enemies/Enemy_8_Sheet_Lookup.png
+- Assets/Sprites/Enemies/Enemy_9_Sheet.png
+- Assets/Sprites/Enemies/Enemy_9_Sheet_Lookup.png
+- Assets/Sprites/Pickups/Baseball_Bat_01_Sheet.png
+- Assets/Sprites/Pickups/Boombox_01_Sheet.png
+- Assets/Sprites/Pickups/Candy_Cane_01_Sheet.png
+- Assets/Sprites/Pickups/NuclearKnuckles_01_Sheet.png
+- Assets/Sprites/Pickups/PepperFireBreath_01_Sheet.png
+- Assets/Sprites/Pickups/NuclearKnuckles_01_Sheet.png
+- Assets/Sprites/Player/AsianFarmerChest_Sheet.png
+- Assets/Sprites/Player/AsianFarmerChest_Sheet_Lookup.png
+- Assets/Sprites/Player/AsianFarmerHead_Sheet.png
+- Assets/Sprites/Player/AsianFarmerHead_Sheet.png
+- Assets/Sprites/Player/AsianFarmerHead_Sheet_Lookup.png
+- Assets/Sprites/Player/AsianFarmerPants_Sheet.png
+- Assets/Sprites/Player/AsianFarmerPants_Sheet.png
+- Assets/Sprites/Player/AsianFarmerPants_Sheet_Lookup.png
+- Assets/Sprites/Player/BaseballHat_Sheet.png
+- Assets/Sprites/Player/BaseballHat_Sheet_Lookup.png
+- Assets/Sprites/Player/CylonHelmet_Sheet_Lookup.png
+- Assets/Sprites/Player/CylonPants_Sheet_Lookup.png
+- Assets/Sprites/Player/CylonShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/DemonHair_Sheet.png
+- Assets/Sprites/Player/DemonHair_Sheet_Lookup.png
+- Assets/Sprites/Player/ElfHead_Sheet.png
+- Assets/Sprites/Player/ElfHead_Sheet_Lookup.png
+- Assets/Sprites/Player/ElfPants_Sheet.png
+- Assets/Sprites/Player/ElfPants_Sheet_Lookup.png
+- Assets/Sprites/Player/ElfTorso_Sheet.png
+- Assets/Sprites/Player/ElfTorso_Sheet_Lookup.png
+- Assets/Sprites/Player/FancyHat_Sheet.png
+- Assets/Sprites/Player/FancyHat_Sheet_Lookup.png
+- Assets/Sprites/Player/FancyPants_Sheet.png
+- Assets/Sprites/Player/FancyPants_Sheet_Lookup.png
+- Assets/Sprites/Player/FancyTop_Sheet.png
+- Assets/Sprites/Player/FancyTop_Sheet_Lookup.png
+- Assets/Sprites/Player/GhostHead_Sheet.png
+- Assets/Sprites/Player/GhostHead_Sheet_Lookup.png
+- Assets/Sprites/Player/GhostPants_Sheet.png
+- Assets/Sprites/Player/GhostPants_Sheet_Lookup.png
+- Assets/Sprites/Player/GhostChest_Sheet.png
+- Assets/Sprites/Player/GhostChest_Sheet_Lookup.png
+- Assets/Sprites/Player/GiPants_Sheet.png
+- Assets/Sprites/Player/GiPants_Sheet_Lookup.png
+- Assets/Sprites/Player/GiTop_Sheet.png
+- Assets/Sprites/Player/GiTop_Sheet_Lookup.png
+- Assets/Sprites/Player/Headband_Sheet.png
+- Assets/Sprites/Player/Headband_Sheet_Lookup.png
+- Assets/Sprites/Player/HeroNaked_Sheet.png
+- Assets/Sprites/Player/HeroNaked_Sheet_Lookup.png
+- Assets/Sprites/Player/KombatMask_Sheet.png
+- Assets/Sprites/Player/KombatMask_Sheet_Lookup.png
+- Assets/Sprites/Player/KombatPants_Sheet.png
+- Assets/Sprites/Player/KombatPants_Sheet_Lookup.png
+- Assets/Sprites/Player/KombatTop_Sheet.png
+- Assets/Sprites/Player/KombatTop_Sheet_Lookup.png
+- Assets/Sprites/Player/KrampusHead_Sheet.png
+- Assets/Sprites/Player/KrampusHead_Sheet_Lookup.png
+- Assets/Sprites/Player/KrampusPants_Sheet.png
+- Assets/Sprites/Player/KrampusPants_Sheet_Lookup.png
+- Assets/Sprites/Player/KrampusShirt_Sheet.png
+- Assets/Sprites/Player/KrampusShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/MedicalMask_Sheet.png
+- Assets/Sprites/Player/MedicalMask_Sheet_Lookup.png
+- Assets/Sprites/Player/PumpkinChest_sheet.png
+- Assets/Sprites/Player/PumpkinChest_sheet_Lookup.png
+- Assets/Sprites/Player/PumpkinHead_sheet.png
+- Assets/Sprites/Player/PumpkinHead_sheet_Lookup.png
+- Assets/Sprites/Player/PumpkinLegs_sheet.png
+- Assets/Sprites/Player/PumpkinLegs_sheet_Lookup.png
+- Assets/Sprites/Player/RaidenHat_Sheet.png
+- Assets/Sprites/Player/RaidenHat_Sheet_Lookup.png
+- Assets/Sprites/Player/RaidenPants_Sheet.png
+- Assets/Sprites/Player/RaidenPants_Sheet_Lookup.png
+- Assets/Sprites/Player/RaidenShirt_Sheet.png
+- Assets/Sprites/Player/RaidenShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/ReaperHead_sheet.png
+- Assets/Sprites/Player/ReaperHead_sheet_Lookup.png
+- Assets/Sprites/Player/ReaperPants_Sheet.png
+- Assets/Sprites/Player/ReaperPants_Sheet_Lookup.png
+- Assets/Sprites/Player/ReaperChest_Sheet.png
+- Assets/Sprites/Player/ReaperChest_Sheet_Lookup.png
+- Assets/Sprites/Player/ReindeerHead_Sheet.png
+- Assets/Sprites/Player/ReindeerHead_Sheet_Lookup.png
+- Assets/Sprites/Player/ReindeerPants_Sheet.png
+- Assets/Sprites/Player/ReindeerPants_Sheet_Lookup.png
+- Assets/Sprites/Player/ReindeerShirt_Sheet.png
+- Assets/Sprites/Player/ReindeerShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/RippedJeans_Sheet.png
+- Assets/Sprites/Player/RippedJeans_Sheet_Lookup.png
+- Assets/Sprites/Player/RobotChest_Sheet.png
+- Assets/Sprites/Player/RobotChest_Sheet_Lookup.png
+- Assets/Sprites/Player/RobotHead_Sheet.png
+- Assets/Sprites/Player/RobotHead_Sheet_Lookup.png
+- Assets/Sprites/Player/RobotPants_Sheet.png
+- Assets/Sprites/Player/RobotPants_Sheet_Lookup.png
+- Assets/Sprites/Player/SantaHead_Sheet.png
+- Assets/Sprites/Player/SantaHead_Sheet_Lookup.png
+- Assets/Sprites/Player/SantaPants_Sheet.png
+- Assets/Sprites/Player/SantaPants_Sheet_Lookup.png
+- Assets/Sprites/Player/SantaShirt_Sheet.png
+- Assets/Sprites/Player/SantaShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/ScrubPants_Sheet.png
+- Assets/Sprites/Player/ScrubPants_Sheet_Lookup.png
+- Assets/Sprites/Player/ScrubTop_Sheet.png
+- Assets/Sprites/Player/ScrubTop_Sheet_Lookup.png
+- Assets/Sprites/Player/TankTop_Sheet.png
+- Assets/Sprites/Player/TankTop_Sheet_Lookup.png
+- Assets/Sprites/Player/ThrillmanChest_Sheet.png
+- Assets/Sprites/Player/ThrillmanChest_Sheet_Lookup.png
+- Assets/Sprites/Player/ThrillmanHead_Sheet.png
+- Assets/Sprites/Player/ThrillmanHead_Sheet_Lookup.png
+- Assets/Sprites/Player/ThrillmanPants_Sheet.png
+- Assets/Sprites/Player/ThrillmanPants_Sheet_Lookup.png
+- Assets/Sprites/Player/TrackHelmet_Sheet.png
+- Assets/Sprites/Player/TrackHelmet_Sheet_Lookup.png
+- Assets/Sprites/Player/TrackPants_Sheet.png
+- Assets/Sprites/Player/TrackPants_Sheet_Lookup.png
+- Assets/Sprites/Player/TrackShirt_Sheet.png
+- Assets/Sprites/Player/TrackShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/TronHead_Sheet.png
+- Assets/Sprites/Player/TronHead_Sheet_Lookup.png
+- Assets/Sprites/Player/TronPants_Sheet.png
+- Assets/Sprites/Player/TronPants_Sheet_Lookup.png
+- Assets/Sprites/Player/TronShirt_Sheet.png
+- Assets/Sprites/Player/TronShirt_Sheet_Lookup.png
+- Assets/Sprites/Player/VampireChest_Sheet.png
+- Assets/Sprites/Player/VampireChest_Sheet_Lookup.png
+- Assets/Sprites/Player/VampireHead_Sheet.png
+- Assets/Sprites/Player/VampireHead_Sheet_Lookup.png
+- Assets/Sprites/Player/VampireLegs_Sheet.png
+- Assets/Sprites/Player/VampireLegs_Sheet_Lookup.png
+- Assets/Sprites/Player/Xavier_Sheet.png
+- Assets/Sprites/Player/Xavier_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Bruce_01_Sheet.png
+- Assets/Sprites/SideKicks/Bruce_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Dragon_01_Sheet.png
+- Assets/Sprites/SideKicks/Elf_01_Sheet.png
+- Assets/Sprites/SideKicks/Elf_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/GBPet_01_Sheet.png
+- Assets/Sprites/SideKicks/GBPet_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Gundam_01_Sheet.png
+- Assets/Sprites/SideKicks/Gundam_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/IronDude_01_Sheet.png
+- Assets/Sprites/SideKicks/IronDude_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Katniss_01_Sheet.png
+- Assets/Sprites/SideKicks/Katniss_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/kfg_01_Sheet.png
+- Assets/Sprites/SideKicks/kfg_costume_01_Sheet.png
+- Assets/Sprites/SideKicks/Marty_01_Sheet.png
+- Assets/Sprites/SideKicks/Marty_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Robot_01_Sheet.png
+- Assets/Sprites/SideKicks/Robot_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Robot_Costume_01_Sheet.png
+- Assets/Sprites/SideKicks/SamuraiGirl_01_Sheet.png
+- Assets/Sprites/SideKicks/Skeleton_01_Sheet.png
+- Assets/Sprites/SideKicks/Turtle_01_Sheet.png
+- Assets/Sprites/SideKicks/Turtle_01_Sheet_Lookup.png
+- Assets/Sprites/SideKicks/Zoey_01_Sheet.png
+- Assets/Sprites/SideKicks/Zoey_Costume_01_Sheet.png
+- Assets/Sprites/UI/Sensei/Sensei_Dialog_Sheet.png
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_1/Enemy_1_Sheet.png
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_1/Enemy_4_Sheet_Lookup.png
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_2/Enemy_2_Sheet_Lookup.png
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_3/Enemy_3_Sheet.png
+- Assets/Third Party/Tiny Titan/Characters/Enemies/Enemy_3/Enemy_6_Sheet_Lookup.png
+- Assets/Third Party/Tiny Titan/Characters/Player/HeroNaked_Sheet.png
+- Assets/Third Party/Tiny Titan/Characters/Player/HeroNaked_Sheet_Lookup.png
+- Assets/TileMapAutoRule/Atlas-MayhemTest.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
