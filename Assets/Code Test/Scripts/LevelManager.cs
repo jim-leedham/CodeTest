@@ -39,6 +39,7 @@ public class LevelManager : MonoBehaviour
         }
     }
 
+#if UNITY_EDITOR
     void OnDrawGizmos()
     {
         Handles.Label(player.spawnPosition.position, "Player Spawn");
@@ -48,4 +49,5 @@ public class LevelManager : MonoBehaviour
             Handles.Label(enemy.spawnPosition.position, "Enemy Spawn");
         }
     }
+#endif
 }

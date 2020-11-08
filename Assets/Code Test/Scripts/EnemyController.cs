@@ -4,61 +4,38 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    #region Fields
-    [SerializeField]
-    private bool facingRight;
+    [SerializeField] private bool facingRight;
+    [SerializeField] private SpriteRenderer spriteRenderer;
 
     private Rigidbody2D rigidBody2D;
-
-    private Vector2 velocity;
-
-    #endregion
-
-    [SerializeField]
-    private float speed = 1.0f;
-
     private Animator animator;
 
+    [SerializeField] private float speed = 1.0f;
+    [SerializeField] private float health = 10.0f;
 
-    private bool attack;
-    private bool attackComplete;
-
-    private bool patrol;
     public GameObject[] patrolPoints;
     private int patrolPointIndex;
+
     private GameObject target;
-    private bool targettingPlayer;
 
-    [SerializeField]
-    private float attackRadius = 1.0f;
+    [SerializeField] private float attackRadius = 1.0f;
+    [SerializeField] private float attackDamage = 1.0f;
+    private bool attackComplete;
 
-    [SerializeField]
-    private float attackDamage = 1.0f;
+    private bool alive;
 
-    [SerializeField]
-    private float health = 10.0f;
-
-    bool alive;
-
-    [SerializeField]
-    private SpriteRenderer spriteRenderer;
-
-    bool deathComplete;
+    private bool deathComplete;
 
     private void Awake()
     {
         rigidBody2D = GetComponent<Rigidbody2D>();
-
         animator = GetComponent<Animator>();
-
     }
 
     public void Start()
     {
-        attack = false;
         attackComplete = false;
 
-        patrol = true;
         patrolPointIndex = 0;
         target = patrolPoints[patrolPointIndex];
         patrolPointIndex++;
@@ -70,15 +47,15 @@ public class EnemyController : MonoBehaviour
     private void FixedUpdate()
     {
         // ------------ Health check ------------
-        if (health <= 0.0f)
+        if (alive && health <= 0.0f)
         {
             alive = false;
             animator.SetBool("Alive", alive);
         }
 
-        if(!alive)
+        if (!alive)
         {
-            if(deathComplete)
+            if (deathComplete)
             {
                 GameUI.Instance.ShowMessage("[ LEVEL COMPLETE ]", "GREAT JOB", Color.green, 0.0f);
                 Destroy(gameObject);
@@ -86,12 +63,8 @@ public class EnemyController : MonoBehaviour
             return;
         }
 
-        // -------- Attacking ---------
-        if (animator.GetBool("Attacking") == true)
-        {
-            //
-        }
-        else
+        // -------- Movement ---------
+        if (!animator.GetBool("Attacking"))
         {
             if (target)
             {
@@ -99,12 +72,13 @@ public class EnemyController : MonoBehaviour
                 float distanceToTarget = Mathf.Abs(transform.position.x - target.transform.position.x);
                 if (target.tag == "Player")
                 {
-                    Player player = target.GetComponentInParent<Player>();
-                    if(!player.IsAlive())
+                    Player player = target.GetComponent<Player>();
+                    if (!player.IsAlive())
                     {
+                        // We killed them! Go back to patrolling
                         target = patrolPoints[patrolPointIndex];
                     }
-                    else if(distanceToTarget < attackRadius)
+                    else if (distanceToTarget < attackRadius)
                     {
                         // Attack!
                         animator.SetBool("Attacking", true);
@@ -112,11 +86,13 @@ public class EnemyController : MonoBehaviour
                     }
                     else
                     {
+                        // Go towards the player
                         horizontalInput = (target.transform.position.x < transform.position.x) ? -speed : speed;
                     }
                 }
-                else if(distanceToTarget < 0.1f)
+                else if (distanceToTarget < 0.1f)
                 {
+                    // Go to next patrol point
                     target = patrolPoints[patrolPointIndex];
                     patrolPointIndex++;
                     if (patrolPointIndex == patrolPoints.Length)
@@ -126,6 +102,7 @@ public class EnemyController : MonoBehaviour
                 }
                 else
                 {
+                    // Go towards current patrol point
                     horizontalInput = (target.transform.position.x < transform.position.x) ? -speed : speed;
                 }
 
@@ -152,7 +129,7 @@ public class EnemyController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "Player")
+        if (collision.gameObject.tag == "Player")
         {
             target = collision.gameObject;
         }
@@ -173,9 +150,9 @@ public class EnemyController : MonoBehaviour
 
     private void OnAttackHit()
     {
-        if(target && target.tag == "Player")
+        if (target && target.tag == "Player")
         {
-            Player player = target.GetComponentInParent<Player>();
+            Player player = target.GetComponent<Player>();
             player.TakeHit(attackDamage);
         }
     }
