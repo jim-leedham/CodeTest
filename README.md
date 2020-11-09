@@ -31,4 +31,4 @@ Fight the zombie guarding the house and defeat him to complete the level.
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/_dyEzEXfSLM/mq2.jpg?sqp=CKi9of0F&rs=AOn4CLBNX_CoSN2o7oUrLZyqG1IJrnMVXg)](https://youtu.be/_dyEzEXfSLM)
+[![YouTube Demo](https://imgur.com/9WOjNSn.png)](https://youtu.be/_dyEzEXfSLM)
